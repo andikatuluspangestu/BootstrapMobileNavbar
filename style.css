@@ -1,0 +1,45 @@
+* {
+  margin: 0 auto;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.nav-link {
+  background: none !important;
+  color: #2c394b !important;
+  font-weight: bolder;
+  border: none !important;
+}
+
+.nav-item{
+  border: none !important;
+}
+
+.card {
+    background-color: rgb(248, 227, 227) !important;
+    border-radius: 15px !important;
+}
+
+button {
+  border: none !important;
+  outline: none !important;
+}
+
+.tab-content {
+  -ms-overflow-style: none !important; /* IE and Edge */
+  scrollbar-width: none !important; /* Firefox */
+}
+
+.tab-content::-webkit-scrollbar {
+  display: none !important;
+}
+
+/* Icons */
+.bi {
+    color: #dfd3fa;
+    font-size: 1.7em;
+}
+
+.bi:hover {
+    color: #9287ac;
+    font-size: 1.7em;
+}
